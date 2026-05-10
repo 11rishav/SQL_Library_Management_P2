@@ -261,4 +261,5 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 - **Github**: (https://github.com/11rishav)
 - **Portfolio**: (https://codebasics.io/portfolio/Rishav-Singh)
 - **LinkedIn**: (https://www.linkedin.com/in/singhrishav/)
+  
 Thank you for your support, and I look forward to connecting with you!
